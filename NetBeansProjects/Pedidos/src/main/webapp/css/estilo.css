@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5/12/2018, 08:45:05 AM
+    Author     : helen
+*/
+/*formulario usuario*/
+
+
+#ss{
+    font-size: 1.5em;
+    color: #FE7F88;
+
+
+    width: 300px;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: #2ECCFA;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+
+
+
+
+}
+
+#imgg {
+
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    height: 1300px;
+}
+
+
+#b6{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: italic;
+    color: #212121;
+    background-color: #B388FF;
+    border-radius: 15px;
+    border: 3px double #880E4F;
+}
+
+
+
+/*formulario actualizar*/
+#actu{
+     background-color: #FFB6C1;
+    padding: 30px;
+}
+    
+
+/*orders*/
+#order{
+    background-color: #FFB6C1;
+    padding: 30px;
+}
+/*lista registrar*/
+#list{
+    background-color: #FFB6C1;
+    padding: 30px;
+}
+/*listacliente*/
+#liscli{
+    background-color: #FFB6C1;
+    padding: 30px;
+}
+/*listaproducto*/
+#lispro{
+    background-color: #FFB6C1;
+    padding: 30px;
+}
+/*search*/
+#serch{
+    background-color: #FFB6C1;
+    padding: 30px;
+    text-align: center;
+}
+
+
